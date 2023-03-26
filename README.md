@@ -3,9 +3,8 @@ The purpose of this project is to add logic to buttons that will update the 2d m
 - 'step' will run and render one step of the simulation
 - 'play' will step the simulation every 100 milliseconds
 - 'pause' will stop the simulation
-- the simulation should be borderless
-- improve styling or user experience if possible
-- play simulation at different speeds
+- the simulation runs borderless
+- plays simulation at different speeds
 
 ## Screenshots, Videos Of Working Project
 

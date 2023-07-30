@@ -8,7 +8,7 @@ The purpose of this project is to add logic to buttons that will update the 2d m
 
 ## Screenshots, Videos Of Working Project
 
-https://user-images.githubusercontent.com/10735187/164579281-3ec537c6-a86d-4501-83b3-7c34e908c7c6.mp4
+https://github.com/amy-b12/game-of-life/assets/128954649/8b1fc1b4-870f-4f8c-9e65-6cb743d00f25
 
 ## WIP features:
 - showing which buttons are active
